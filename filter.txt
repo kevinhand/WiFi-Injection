@@ -1,0 +1,3 @@
+(wlan.sa == 48:ee:0c:c3:9e:23 || wlan.da == 48:ee:0c:c3:9e:23 || wlan.sa == f4:09:d8:9c:4d:c6 || wlan.da == f4:09:d8:9c:4d:c6) &&( wlan.fc.type_subtype == 0x08 || wlan.fc.type_subtype == 0x04 || wlan.fc.type_subtype == 0x00|| wlan.fc.type_subtype == 0x1D)
+
+(wlan.sa == 48:ee:0c:c3:9e:23 || wlan.da == 48:ee:0c:c3:9e:23 || wlan.sa == f4:09:d8:9c:4d:c6 || wlan.da == f4:09:d8:9c:4d:c6)
